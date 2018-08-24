@@ -1,0 +1,15 @@
+#finePrint1 {
+	font-size: 20px;
+}
+#finePrint2 {
+	font-size: 9px;
+}
+.jumbotron {
+	text-align: center;
+	background-color: #e12301;
+	color: white;
+}
+
+body {
+	background-color: #FFB97B;
+}
