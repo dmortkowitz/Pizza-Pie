@@ -18,5 +18,5 @@ body {
 	border-style: solid;
 	border-color: red;
 	border-radius: 25px;
-
+	float: bottom;
 }
