@@ -13,3 +13,10 @@
 body {
 	background-color: #FFB97B;
 }
+
+#sideBar {
+	border-style: solid;
+	border-color: red;
+	border-radius: 25px;
+
+}
