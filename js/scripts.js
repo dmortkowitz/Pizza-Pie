@@ -23,7 +23,8 @@ $(document).ready(function(){
   var topInput = $("#topChoice").val();
   var newPizza = new Pizza(sizeInput, crustInput, topInput);
   $("#price").text("");
-  $("#price").append(" $" + newPizza.pizzaPrice());
+  $("#price").append("YOUR PERFECT PIZZA PRICE IS $" + newPizza.pizzaPrice());
+  
 
   });
 });

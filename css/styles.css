@@ -6,17 +6,38 @@
 }
 .jumbotron {
 	text-align: center;
-	background-color: #e12301;
+	background-color: #cc0000;
 	color: white;
 }
 
 body {
-	background-color: #FFB97B;
+	background-color: #cc0000;
 }
 
 #sideBar {
 	border-style: solid;
 	border-color: red;
 	border-radius: 25px;
-	float: bottom;
+}
+#pieTime {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#panelStyle{
+	background-color: #FFB97B;
+	text-align: center;
+	border-style: inset;
+}
+
+#price{
+	font-size: 40px;
+	border: solid;
+	border-color: white;
+	background-color: #cc0000;
+	color: white;
+	margin-top: 10px;
+}
+#rowSegment{
+	margin-bottom: 100px;
 }
